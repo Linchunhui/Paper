@@ -31,37 +31,38 @@ Some note about paper
   * IGCV3  [轻量级网络：IGCV系列V1、V2、V3](https://blog.csdn.net/qq_39382877/article/details/97415288)
   * ESPNet  [轻量级网络：ESPNet系列](https://blog.csdn.net/qq_39382877/article/details/97423070)
   * ESPNetV2  [轻量级网络：ESPNet系列](https://blog.csdn.net/qq_39382877/article/details/97423070)
-  * mnasnet  TODO
+  * MNasNet  TODO
+  * MixNet  TODO
 * Other
   * Bag of Tricks [论文笔记：Bag of Tricks for Image Classification with Convolutional Neural Networks and a new ResNet.](https://blog.csdn.net/qq_39382877/article/details/96465763)
   * GN
 * One Stage Detection
-  * YOLO
-  * YOLOv2
-  * YOLOv3
-  * SSD
-  * DSSD
-  * FSSD
-  * DSOD
+  * YOLO  [目标检测：YOLO系列v1、v2、v3](https://blog.csdn.net/qq_39382877/article/details/97967631)
+  * YOLOv2 [目标检测：YOLO系列v1、v2、v3](https://blog.csdn.net/qq_39382877/article/details/97967631)
+  * YOLOv3 [目标检测：YOLO系列v1、v2、v3](https://blog.csdn.net/qq_39382877/article/details/97967631)
+  * SSD [目标检测系列：SSD系列SSD、FSSD、DSSD、DSOD](https://blog.csdn.net/qq_39382877/article/details/97968671)
+  * DSSD [目标检测系列：SSD系列SSD、FSSD、DSSD、DSOD](https://blog.csdn.net/qq_39382877/article/details/97968671)
+  * FSSD [目标检测系列：SSD系列SSD、FSSD、DSSD、DSOD](https://blog.csdn.net/qq_39382877/article/details/97968671)
+  * DSOD [目标检测系列：SSD系列SSD、FSSD、DSSD、DSOD](https://blog.csdn.net/qq_39382877/article/details/97968671)
   * RetinaNet
   * RefineDet
   * GHM
   * FCOS
   * Cascade RetinaNet
 * Two Stage Detection
-  * RCNN
-  * SPPNet
-  * Fast RCNN
-  * Faster RCNN
-  * R-FCN
-  * FPN
-  * Mask RCNN
-  * Cascade RCNN
+  * RCNN [目标检测系列：RCNN、SPP、Fast RCNN](https://blog.csdn.net/qq_39382877/article/details/97960859)
+  * SPPNet [目标检测系列：RCNN、SPP、Fast RCNN](https://blog.csdn.net/qq_39382877/article/details/97960859)
+  * Fast RCNN [目标检测系列：RCNN、SPP、Fast RCNN](https://blog.csdn.net/qq_39382877/article/details/97960859)
+  * Faster RCNN [目标检测系列：Faster RCNN、FPN](https://blog.csdn.net/qq_39382877/article/details/97964528)
+  * R-FCN [目标检测系列：R-FCN、Mask RCNN、Cascade RCNN](https://blog.csdn.net/qq_39382877/article/details/97966011)
+  * FPN [目标检测系列：Faster RCNN、FPN](https://blog.csdn.net/qq_39382877/article/details/97964528)
+  * Mask RCNN [目标检测系列：R-FCN、Mask RCNN、Cascade RCNN](https://blog.csdn.net/qq_39382877/article/details/97966011)
+  * Cascade RCNN [目标检测系列：R-FCN、Mask RCNN、Cascade RCNN](https://blog.csdn.net/qq_39382877/article/details/97966011)
 * Detection Other
-  * Soft-NMS
+  * Soft-NMS [目标检测系列：Soft-NMS、A Fast-RCNN](https://blog.csdn.net/qq_39382877/article/details/97970995)
   * Softer NMS
   * OHEM
-  * A Fast-RCNN
+  * A Fast-RCNN [目标检测系列：Soft-NMS、A Fast-RCNN](https://blog.csdn.net/qq_39382877/article/details/97970995)
   * Repulsion Loss
   * MMDetection
   * CenterNet
