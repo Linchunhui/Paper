@@ -32,7 +32,7 @@ Some note about paper
   * ESPNet  [轻量级网络：ESPNet系列](https://blog.csdn.net/qq_39382877/article/details/97423070)
   * ESPNetV2  [轻量级网络：ESPNet系列](https://blog.csdn.net/qq_39382877/article/details/97423070)
   * MNasNet  TODO
-  * MixNet  TODO
+  * MixNet  [轻量级网络：MixNet](https://blog.csdn.net/qq_39382877/article/details/98073054)
 * Other
   * Bag of Tricks [论文笔记：Bag of Tricks for Image Classification with Convolutional Neural Networks and a new ResNet.](https://blog.csdn.net/qq_39382877/article/details/96465763)
   * GN
