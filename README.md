@@ -69,7 +69,7 @@ Some note about paper
   * HRNetV1
   * HRNetV2
   * GEM
-  * CARAFE [论文笔记：CARAFE: Content-Aware ReAssembly of FEatures](https://blog.csdn.net/qq_39382877/article/details/98472596)
+  * CARAFE [目标检测系列：CARAFE: Content-Aware ReAssembly of FEatures](https://blog.csdn.net/qq_39382877/article/details/98472596)
 * Segmentation
   * FCN
   * U-Net
