@@ -46,7 +46,6 @@ Some note about paper
   * DSOD [目标检测系列：SSD系列SSD、FSSD、DSSD、DSOD](https://blog.csdn.net/qq_39382877/article/details/97968671)
   * RetinaNet
   * RefineDet
-  * GHM
   * FCOS
   * Cascade RetinaNet
 * Two Stage Detection
@@ -69,6 +68,7 @@ Some note about paper
   * NAS-FPN
   * HRNetV1
   * HRNetV2
+  * GEM
   * CARAFE [论文笔记：CARAFE: Content-Aware ReAssembly of FEatures](https://blog.csdn.net/qq_39382877/article/details/98472596)
 * Segmentation
   * FCN
