@@ -69,6 +69,7 @@ Some note about paper
   * NAS-FPN
   * HRNetV1
   * HRNetV2
+  * CARAFE [论文笔记：CARAFE: Content-Aware ReAssembly of FEatures](https://blog.csdn.net/qq_39382877/article/details/98472596)
 * Segmentation
   * FCN
   * U-Net
