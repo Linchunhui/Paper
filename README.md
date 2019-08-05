@@ -67,8 +67,8 @@ Some note about paper
   * MMDetection
   * CenterNet
   * NAS-FPN
-  * HRNetV1
-  * HRNetV2
+  * HRNetV1 [目标检测系列：高分辨率表示HRNetV1、HRNetV2/V2p](https://blog.csdn.net/qq_39382877/article/details/98519064)
+  * HRNetV2 [目标检测系列：高分辨率表示HRNetV1、HRNetV2/V2p](https://blog.csdn.net/qq_39382877/article/details/98519064)
   * GEM
   * CARAFE [目标检测系列：CARAFE: Content-Aware ReAssembly of FEatures](https://blog.csdn.net/qq_39382877/article/details/98472596)
   * GIOU
