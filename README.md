@@ -57,6 +57,7 @@ Some note about paper
   * FPN [目标检测系列：Faster RCNN、FPN](https://blog.csdn.net/qq_39382877/article/details/97964528)
   * Mask RCNN [目标检测系列：R-FCN、Mask RCNN、Cascade RCNN](https://blog.csdn.net/qq_39382877/article/details/97966011)
   * Cascade RCNN [目标检测系列：R-FCN、Mask RCNN、Cascade RCNN](https://blog.csdn.net/qq_39382877/article/details/97966011)
+  * Libra R-CNN
 * Detection Other
   * Soft-NMS [目标检测系列：Soft-NMS、A Fast-RCNN](https://blog.csdn.net/qq_39382877/article/details/97970995)
   * Softer NMS
@@ -70,6 +71,7 @@ Some note about paper
   * HRNetV2
   * GEM
   * CARAFE [目标检测系列：CARAFE: Content-Aware ReAssembly of FEatures](https://blog.csdn.net/qq_39382877/article/details/98472596)
+  * GIOU
 * Segmentation
   * FCN
   * U-Net
