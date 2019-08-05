@@ -62,17 +62,18 @@ Some note about paper
   * FCOS
 * Detection Other
   * Soft-NMS [目标检测系列：Soft-NMS、A Fast-RCNN](https://blog.csdn.net/qq_39382877/article/details/97970995)
-  * Softer NMS
-  * OHEM
   * A Fast-RCNN [目标检测系列：Soft-NMS、A Fast-RCNN](https://blog.csdn.net/qq_39382877/article/details/97970995)
+  * HRNetV1 [目标检测系列：高分辨率表示HRNetV1、HRNetV2/V2p](https://blog.csdn.net/qq_39382877/article/details/98519064)
+  * HRNetV2 [目标检测系列：高分辨率表示HRNetV1、HRNetV2/V2p](https://blog.csdn.net/qq_39382877/article/details/98519064)
+  * CARAFE [目标检测系列：CARAFE: Content-Aware ReAssembly of FEatures](https://blog.csdn.net/qq_39382877/article/details/98472596)
+  * GIOU [目标检测系列：GIOU-Generalized Intersection over Union](https://blog.csdn.net/qq_39382877/article/details/98527921)
+  * Softer NMS/KL loss
+  * OHEM
+  * Focal loss
+  * GEM
   * Repulsion Loss
   * MMDetection
   * NAS-FPN
-  * HRNetV1 [目标检测系列：高分辨率表示HRNetV1、HRNetV2/V2p](https://blog.csdn.net/qq_39382877/article/details/98519064)
-  * HRNetV2 [目标检测系列：高分辨率表示HRNetV1、HRNetV2/V2p](https://blog.csdn.net/qq_39382877/article/details/98519064)
-  * GEM
-  * CARAFE [目标检测系列：CARAFE: Content-Aware ReAssembly of FEatures](https://blog.csdn.net/qq_39382877/article/details/98472596)
-  * GIOU
 * Segmentation
   * FCN
   * U-Net
