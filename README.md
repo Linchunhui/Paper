@@ -60,6 +60,8 @@ Some note about paper
 * Anchor-Free 
   * CenterNet
   * FCOS
+  * FSAF
+  * FoveaBox
 * Detection Other
   * Soft-NMS [目标检测系列：Soft-NMS、A Fast-RCNN](https://blog.csdn.net/qq_39382877/article/details/97970995)
   * A Fast-RCNN [目标检测系列：Soft-NMS、A Fast-RCNN](https://blog.csdn.net/qq_39382877/article/details/97970995)
