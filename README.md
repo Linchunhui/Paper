@@ -35,7 +35,7 @@ Some note about paper
   * MixNet  [轻量级网络：MixNet](https://blog.csdn.net/qq_39382877/article/details/98073054)
 * Other
   * Bag of Tricks [论文笔记：Bag of Tricks for Image Classification with Convolutional Neural Networks and a new ResNet.](https://blog.csdn.net/qq_39382877/article/details/96465763)
-  * GN
+  * Group Normalization
 * One Stage Detection
   * YOLO  [目标检测：YOLO系列v1、v2、v3](https://blog.csdn.net/qq_39382877/article/details/97967631)
   * YOLOv2 [目标检测：YOLO系列v1、v2、v3](https://blog.csdn.net/qq_39382877/article/details/97967631)
@@ -46,7 +46,6 @@ Some note about paper
   * DSOD [目标检测系列：SSD系列SSD、FSSD、DSSD、DSOD](https://blog.csdn.net/qq_39382877/article/details/97968671)
   * RetinaNet
   * RefineDet
-  * FCOS
   * Cascade RetinaNet
 * Two Stage Detection
   * RCNN [目标检测系列：RCNN、SPP、Fast RCNN](https://blog.csdn.net/qq_39382877/article/details/97960859)
@@ -57,7 +56,10 @@ Some note about paper
   * FPN [目标检测系列：Faster RCNN、FPN](https://blog.csdn.net/qq_39382877/article/details/97964528)
   * Mask RCNN [目标检测系列：R-FCN、Mask RCNN、Cascade RCNN](https://blog.csdn.net/qq_39382877/article/details/97966011)
   * Cascade RCNN [目标检测系列：R-FCN、Mask RCNN、Cascade RCNN](https://blog.csdn.net/qq_39382877/article/details/97966011)
-  * Libra R-CNN
+  * Libra R-CNN [目标检测系列:Libra R-CNN](https://blog.csdn.net/qq_39382877/article/details/98523269)
+* Anchor-Free 
+  * CenterNet
+  * FCOS
 * Detection Other
   * Soft-NMS [目标检测系列：Soft-NMS、A Fast-RCNN](https://blog.csdn.net/qq_39382877/article/details/97970995)
   * Softer NMS
@@ -65,7 +67,6 @@ Some note about paper
   * A Fast-RCNN [目标检测系列：Soft-NMS、A Fast-RCNN](https://blog.csdn.net/qq_39382877/article/details/97970995)
   * Repulsion Loss
   * MMDetection
-  * CenterNet
   * NAS-FPN
   * HRNetV1 [目标检测系列：高分辨率表示HRNetV1、HRNetV2/V2p](https://blog.csdn.net/qq_39382877/article/details/98519064)
   * HRNetV2 [目标检测系列：高分辨率表示HRNetV1、HRNetV2/V2p](https://blog.csdn.net/qq_39382877/article/details/98519064)
