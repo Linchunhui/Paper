@@ -35,7 +35,12 @@ Some note about paper
   * MixNet  [轻量级网络：MixNet](https://blog.csdn.net/qq_39382877/article/details/98073054)
 * Other
   * Bag of Tricks [论文笔记：Bag of Tricks for Image Classification with Convolutional Neural Networks and a new ResNet.](https://blog.csdn.net/qq_39382877/article/details/96465763)
-  * Group Normalization
+  * BatchNorm [各种Normalization：BatchNorm、LayerNorm、InstanceNorm、GroupNorm、SwitchableNorm、AttentiveNorm](https://blog.csdn.net/qq_39382877/article/details/98875822)
+  * LayerNorm [各种Normalization：BatchNorm、LayerNorm、InstanceNorm、GroupNorm、SwitchableNorm、AttentiveNorm](https://blog.csdn.net/qq_39382877/article/details/98875822)
+  * InstanceNorm [各种Normalization：BatchNorm、LayerNorm、InstanceNorm、GroupNorm、SwitchableNorm、AttentiveNorm](https://blog.csdn.net/qq_39382877/article/details/98875822)
+  * GroupNorm [各种Normalization：BatchNorm、LayerNorm、InstanceNorm、GroupNorm、SwitchableNorm、AttentiveNorm](https://blog.csdn.net/qq_39382877/article/details/98875822)
+  * SwitchableNorm [各种Normalization：BatchNorm、LayerNorm、InstanceNorm、GroupNorm、SwitchableNorm、AttentiveNorm](https://blog.csdn.net/qq_39382877/article/details/98875822)
+  * AttentiveNorm [各种Normalization：BatchNorm、LayerNorm、InstanceNorm、GroupNorm、SwitchableNorm、AttentiveNorm](https://blog.csdn.net/qq_39382877/article/details/98875822)
 * One Stage Detection
   * YOLO  [目标检测：YOLO系列v1、v2、v3](https://blog.csdn.net/qq_39382877/article/details/97967631)
   * YOLOv2 [目标检测：YOLO系列v1、v2、v3](https://blog.csdn.net/qq_39382877/article/details/97967631)
